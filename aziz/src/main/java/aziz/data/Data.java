@@ -16,8 +16,7 @@ import java.util.List;
  */
 @SuppressWarnings("UseOfSystemOutOrSystemErr")
 public class Data {
-    public static final File DATA_FILE = new File(Data.class.getClassLoader().getResource("data.txt").getFile());
-
+    public static final File DATA_FILE = new File((new Data()).getClass().getResource("data.txt").getFile());
 
     @NotNull
     public static FileReader newDataFileReader() throws FileNotFoundException {

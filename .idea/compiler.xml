@@ -20,7 +20,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="aziz" target="13" />
+      <module name="book" target="10" />
+      <module name="modern-java-in-action-practice" target="13" />
     </bytecodeTargetLevel>
   </component>
 </project>
