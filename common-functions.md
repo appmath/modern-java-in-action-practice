@@ -61,25 +61,25 @@
 | Operation        | Type                    | Return type        | Type/functional interface used (arg)       | Function descriptor  |
 | -----------------|:------------------------|:-------------------|:-------------------------------------------|:---------------------|  
 | ```filter   ```  | Intermediate            | ```Stream<T>  ```  | ```Predicate<T>           ```              | ```T -> boolean  ``` | 
-| ```distinct ```  | Intermediate            | ```           ```  | ```                       ```              | ```              ``` |
-  ```         ```  | (stateful-unbounded)    | ```Stream<R>  ```  | ```                       ```              | ```              ``` | 
+| ```distinct ```  | Intermediate            |                    |                                            |                      |
+|                  | (stateful-unbounded)    | ```Stream<R>  ```  |                                            |                      | 
 | ```takeWhile```  | Intermediate            | ```Stream<T>  ```  | ```Predicate<T>           ```              | ```T -> boolean  ``` | 
 | ```dropWhile```  | Intermediate            | ```Stream<T>  ```  | ```Predicate<T>           ```              | ```T -> boolean  ``` | 
-| ```skip     ```  | Intermediate            | ```           ```  | ```                       ```              | ```              ``` |
-  ```         ```  | (stateful-unbounded)    | ```Stream<R>  ```  | ```                       ```              | ```              ``` | 
-| ```limit    ```  | Intermediate            | ```Stream<T>  ```  | ```                       ```              | ```              ``` |                     
+| ```skip     ```  | Intermediate            |                    |                                            |                      |
+|                  | (stateful-unbounded)    | ```Stream<R>  ```  |                                            |                      | 
+| ```limit    ```  | Intermediate            | ```Stream<T>  ```  |                                            |                      |                     
 | ```map      ```  | Intermediate            | ```Stream<R>  ```  | ```Function<T, R>         ```              | ```T -> R        ``` | 
 | ```flatMap  ```  | Intermediate            | ```Stream<R>  ```  | ```Function<T, <Stream<R>>```              | ```T -> Stream<R>``` | 
 | ```sorted   ```  | Intermediate            | ```Stream<T>  ```  | ```Comparator<T>          ```              | ```(T, T) -> int ``` | 
 | ```anyMatch ```  | Terminal                | ```Stream<T>  ```  | ```Predicate<T>           ```              | ```T -> boolean  ``` | 
 | ```noneMatch```  | Terminal                | ```Stream<T>  ```  | ```Predicate<T>           ```              | ```T -> boolean  ``` | 
 | ```allMatch ```  | Terminal                | ```boolean    ```  | ```Predicate<T>           ```              | ```T -> boolean  ``` | 
-| ```findAny  ```  | Terminal                | ```Optional<T>```  | ```                       ```              | ```T -> boolean  ``` | 
-| ```findFirst```  | Terminal                | ```Optional<T>```  | ```                       ```              | ```T -> boolean  ``` | 
+| ```findAny  ```  | Terminal                | ```Optional<T>```  |                                            | ```T -> boolean  ``` | 
+| ```findFirst```  | Terminal                | ```Optional<T>```  |                                            | ```T -> boolean  ``` | 
 | ```forEach  ```  | Terminal                | ```void       ```  | ```Consumer<T>            ```              | ```T -> void     ``` | 
-| ```collect  ```  | Terminal                | ```R          ```  | ```Collector<T, A, R>     ```              | ```              ``` |
+| ```collect  ```  | Terminal                | ```R          ```  | ```Collector<T, A, R>     ```              |                      |
 | ```reduce   ```  | Terminal                | ```void       ```  | ```Consumer<T>            ```              | ```T -> void     ``` |  
-| ```         ```  | (stateful-unbounded)    | ```Optional<T>```  | ```BinaryOperator<T>      ```              | ```(T, T) -> T   ``` |
+|                  | (stateful-unbounded)    | ```Optional<T>```  | ```BinaryOperator<T>      ```              | ```(T, T) -> T   ``` |
 | ```count    ```  | Terminal                | ```long       ```  |                                            |                      |   
 
 
