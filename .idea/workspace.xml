@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,85 +22,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ef68270-87eb-4f76-9f97-92c85071dbcc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_actor_2_12_2_5_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_protobuf_2_12_2_5_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_stream_2_12_2_5_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_config_1_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_ssl_config_core_2_12_0_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava2_rxjava_2_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_3_70.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_70.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_70.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_3_70.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_1_3_70.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_common_1_3_70.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0_M1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jmh_jmh_core_1_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jmh_jmh_generator_annprocess_1_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_java8_compat_2_12_0_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_12_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_12_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aziz/modern-java-in-action-practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aziz/src/main/java/aziz/data/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aziz/target/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/book.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="5ef68270-87eb-4f76-9f97-92c85071dbcc" name="Default Changelist" comment="Resuming my learning">
+      <change afterPath="$PROJECT_DIR$/aziz/aziz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aziz/target/classes/aziz/data/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/data/Apple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/data/BaseClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/data/Color.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/data/CrispApple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/data/Currency.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/data/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/data/Data.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/data/Database.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/data/Discount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/data/Dish.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/data/ExchangeService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/data/FactoryMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/data/Fruit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/data/Orange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/data/Quote.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/data/Shop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/data/Trader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/data/Transaction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/data/TransactionWithCurrency.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/mj2020/chap2_passing_code/PassingCode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/mj2020/chap3_lambda_expression/LambdaExpression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/mj2020/chap4_stream_intro/StreamIntro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/mj2020/chap5_working_with_streams/WorkingWithStreams.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/util/ConcurrencyUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/util/OptionalUtility.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/util/OptionalUtilityTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/aziz/util/Util.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/favorite-shortcuts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/aziz/data/data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/chap3_lambda_expression/data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/lambdasinaction/examples/chap3/data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/lambdasinaction/examples/chap5/data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/aziz/data/data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aziz/modern-java-in-action-practice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aziz/src/main/java/aziz/data/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/aziz/src/main/java/aziz/data/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aziz/src/main/java/aziz/data/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/aziz/src/main/java/aziz/data/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aziz/src/main/java/aziz/mj2020/chap5_working_with_streams/WorkingWithStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/aziz/src/main/java/aziz/mj2020/chap5_working_with_streams/WorkingWithStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/book.iml" beforeDir="false" afterPath="$PROJECT_DIR$/book/book.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-functions.md" beforeDir="false" afterPath="$PROJECT_DIR$/common-functions.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,8 +45,22 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="java 8 Lambdas" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1eCk6MwvKVGlzscHjkvlxBBeYm8" />
   <component name="ProjectViewState">
@@ -130,14 +81,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="C:/Program Files (x86)/Android/android-sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/aziz/target/classes/aziz/data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.side.proportion" value="0.33103448" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -151,9 +102,21 @@
       <recent name="$PROJECT_DIR$/aziz/target" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WorkingWithStreams$SlicingStream">
+  <component name="RunManager" selected="Application.WorkingWithStreams$StreamsFromFunctions">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -162,9 +125,9 @@
       <Host>localhost</Host>
       <Port>5050</Port>
     </configuration>
-    <configuration name="WorkingWithStreams$Filtering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aziz.mj2020.chap5_working_with_streams.WorkingWithStreams$Filtering" />
-      <module name="modern-java-in-action-practice" />
+    <configuration name="WorkingWithStreams$BuildingStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aziz.mj2020.chap5_working_with_streams.WorkingWithStreams$BuildingStreams" />
+      <module name="aziz" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -176,9 +139,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WorkingWithStreams$SlicingStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aziz.mj2020.chap5_working_with_streams.WorkingWithStreams$SlicingStream" />
-      <module name="modern-java-in-action-practice" />
+    <configuration name="WorkingWithStreams$NumericRanges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aziz.mj2020.chap5_working_with_streams.WorkingWithStreams$NumericRanges" />
+      <module name="aziz" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aziz.mj2020.chap5_working_with_streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkingWithStreams$NumericStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aziz.mj2020.chap5_working_with_streams.WorkingWithStreams$NumericStreams" />
+      <module name="aziz" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aziz.mj2020.chap5_working_with_streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkingWithStreams$StreamsFromFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aziz.mj2020.chap5_working_with_streams.WorkingWithStreams$StreamsFromFiles" />
+      <module name="aziz" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aziz.mj2020.chap5_working_with_streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkingWithStreams$StreamsFromFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aziz.mj2020.chap5_working_with_streams.WorkingWithStreams$StreamsFromFunctions" />
+      <module name="aziz" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -206,18 +211,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG">
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -229,11 +222,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WorkingWithStreams$SlicingStream" />
-        <item itemvalue="Application.WorkingWithStreams$Filtering" />
+        <item itemvalue="Application.WorkingWithStreams$StreamsFromFunctions" />
+        <item itemvalue="Application.WorkingWithStreams$StreamsFromFiles" />
+        <item itemvalue="Application.WorkingWithStreams$BuildingStreams" />
+        <item itemvalue="Application.WorkingWithStreams$NumericRanges" />
+        <item itemvalue="Application.WorkingWithStreams$NumericStreams" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
@@ -244,12 +241,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593832785138</updated>
-      <workItem from="1593832786563" duration="1548000" />
+      <workItem from="1593832786563" duration="34280000" />
+      <workItem from="1594062221008" duration="18705000" />
+      <workItem from="1594233954015" duration="40000" />
+      <workItem from="1594234007003" duration="10105000" />
+      <workItem from="1594668123574" duration="304000" />
+      <workItem from="1597951007124" duration="8026000" />
     </task>
+    <task id="LOCAL-00001" summary="Resuming my learning">
+      <created>1593834592059</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593834592059</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -261,68 +281,104 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Resuming my learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resuming my learning" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="898" y="437" width="837" height="579" key="#xdebugger.evaluate" timestamp="1593834321012">
+    <state x="578" y="211" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1597953549671">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="898" y="437" width="837" height="579" key="#xdebugger.evaluate/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1593834321012" />
-    <state width="1409" height="366" key="GridCell.Tab.0.bottom" timestamp="1593833975901">
+    <state x="578" y="211" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1597953549671" />
+    <state x="898" y="437" width="837" height="579" key="#xdebugger.evaluate" timestamp="1594087843485">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1409" height="366" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1593833975901" />
-    <state width="1409" height="366" key="GridCell.Tab.0.center" timestamp="1593833975898">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="898" y="437" width="837" height="579" key="#xdebugger.evaluate/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1594087843485" />
+    <state width="1399" height="297" key="GridCell.Tab.0.bottom" timestamp="1594667655014">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1409" height="366" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1593833975898" />
-    <state width="1409" height="366" key="GridCell.Tab.0.left" timestamp="1593833975897">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1878" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1594262344476" />
+    <state width="1878" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.23.1920.1057@0.0.1920.1080" timestamp="1594239605441" />
+    <state width="1399" height="297" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1920.23.1920.1057@0.23.1920.1057" timestamp="1594667655014" />
+    <state width="1399" height="297" key="GridCell.Tab.0.center" timestamp="1594667655012">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1409" height="366" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1593833975897" />
-    <state width="1409" height="366" key="GridCell.Tab.0.right" timestamp="1593833975900">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1878" height="297" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1594262344474" />
+    <state width="1878" height="297" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.23.1920.1057@0.0.1920.1080" timestamp="1594239605434" />
+    <state width="1399" height="297" key="GridCell.Tab.0.center/0.23.1920.1057/-1920.23.1920.1057@0.23.1920.1057" timestamp="1594667655012" />
+    <state width="1399" height="297" key="GridCell.Tab.0.left" timestamp="1594667655011">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1409" height="366" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1593833975900" />
-    <state width="1409" height="366" key="GridCell.Tab.1.bottom" timestamp="1593833976006">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1878" height="297" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1594262344472" />
+    <state width="1878" height="297" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.23.1920.1057@0.0.1920.1080" timestamp="1594239605431" />
+    <state width="1399" height="297" key="GridCell.Tab.0.left/0.23.1920.1057/-1920.23.1920.1057@0.23.1920.1057" timestamp="1594667655011" />
+    <state width="1399" height="297" key="GridCell.Tab.0.right" timestamp="1594667655013">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1409" height="366" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1593833976006" />
-    <state width="1409" height="366" key="GridCell.Tab.1.center" timestamp="1593833976004">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1878" height="297" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1594262344475" />
+    <state width="1878" height="297" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.23.1920.1057@0.0.1920.1080" timestamp="1594239605437" />
+    <state width="1399" height="297" key="GridCell.Tab.0.right/0.23.1920.1057/-1920.23.1920.1057@0.23.1920.1057" timestamp="1594667655013" />
+    <state width="1878" height="366" key="GridCell.Tab.1.bottom" timestamp="1594225222690">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1409" height="366" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1593833976004" />
-    <state width="1409" height="366" key="GridCell.Tab.1.left" timestamp="1593833976003">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1878" height="366" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1594087845617" />
+    <state width="1878" height="366" key="GridCell.Tab.1.bottom/0.23.1920.1057/-1920.23.1920.1057@0.23.1920.1057" timestamp="1594225222690" />
+    <state width="1878" height="366" key="GridCell.Tab.1.center" timestamp="1594225222688">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1409" height="366" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1593833976003" />
-    <state width="1409" height="366" key="GridCell.Tab.1.right" timestamp="1593833976005">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1878" height="366" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1594087845614" />
+    <state width="1878" height="366" key="GridCell.Tab.1.center/0.23.1920.1057/-1920.23.1920.1057@0.23.1920.1057" timestamp="1594225222688" />
+    <state width="1878" height="366" key="GridCell.Tab.1.left" timestamp="1594225222687">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1409" height="366" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1593833976005" />
+    <state width="1878" height="366" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1594087845613" />
+    <state width="1878" height="366" key="GridCell.Tab.1.left/0.23.1920.1057/-1920.23.1920.1057@0.23.1920.1057" timestamp="1594225222687" />
+    <state width="1878" height="366" key="GridCell.Tab.1.right" timestamp="1594225222689">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1594087845615" />
+    <state width="1878" height="366" key="GridCell.Tab.1.right/0.23.1920.1057/-1920.23.1920.1057@0.23.1920.1057" timestamp="1594225222689" />
     <state x="579" y="246" key="NewModule_or_Project.wizard" timestamp="1593832861389">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="579" y="246" key="NewModule_or_Project.wizard/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1593832861389" />
-    <state x="448" y="121" key="SettingsEditor" timestamp="1593833878682">
+    <state x="448" y="121" key="SettingsEditor" timestamp="1594236723129">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="448" y="121" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1593833878682" />
-    <state width="707" height="348" key="javadoc.popup.new" timestamp="1593834303432">
+    <state x="448" y="121" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1594236665551" />
+    <state x="448" y="121" key="SettingsEditor/0.0.1920.1080/-1920.23.1920.1057@0.0.1920.1080" timestamp="1594236723129" />
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1593834594322">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="707" height="348" key="javadoc.popup.new/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1593834303432" />
-    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1593833708383">
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1593834594322" />
+    <state x="609" y="161" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597957902050">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1593833708383" />
+    <state x="609" y="161" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1597957902050" />
+    <state x="661" y="295" width="598" height="548" key="find.popup" timestamp="1597953971599">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="661" y="295" width="598" height="548" key="find.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1597953971599" />
+    <state width="707" height="112" key="javadoc.popup.new" timestamp="1597956322417">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="707" height="112" key="javadoc.popup.new/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1597956322417" />
+    <state width="707" height="112" key="javadoc.popup.new/0.0.1920.1080/-1920.23.1920.1057@0.0.1920.1080" timestamp="1594224986913" />
+    <state width="707" height="112" key="javadoc.popup.new/0.23.1920.1057/-1920.23.1920.1057@0.23.1920.1057" timestamp="1594075572303" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1597954004382">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1597954004382" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/aziz/src/main/java/aziz/data/Data.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/aziz/src/main/java/aziz/mj2020/chap5_working_with_streams/WorkingWithStreams.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

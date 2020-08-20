@@ -7,9 +7,8 @@ import org.jetbrains.annotations.NotNull;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
+import java.util.stream.*;
 
 /**
  *
@@ -106,7 +105,8 @@ public class Data {
     public static final List<String> COMRADES =
             Arrays.asList("Kate", "Ken", "Nick", "Paula", "Zach");
 
-
+    public final static String[] HELLO_WORLD = {"Hello", "World"};
+    public final static List<String> WORDS = Arrays.asList("Modern", "Java", "In", "Action");
     // *****************************************************************
     public static final List<Dish> M = MENU;
     public static final List<String> F = FRIENDS;
@@ -144,6 +144,8 @@ public class Data {
         return new ArrayList<>(CRISP_APPLES);
     }
 
+    public static final Stream<String> STREAM_OF_HELLO_W = Arrays.stream(HELLO_WORLD);
+
     public static void printAllNames() {
         System.out.print("\n FRIENDS: ");
         FRIENDS.stream().forEach(name -> System.out.print(name + " "));
@@ -153,5 +155,24 @@ public class Data {
 
         System.out.print("\n EDITORS: ");
         EDITORS.stream().forEach(name -> System.out.print(name + " "));
+    }
+
+    public static void printMenu() {
+        System.out.println("Menu: " + M);
+    }
+    public static void printNumbers() {
+        System.out.println("Numbers: " + N);
+    }
+    public static void printTransactions() {
+        System.out.println("Transactions: " + TRANSACTIONS);
+    }
+    public static void printTransactionsWithCurrency() {
+        System.out.println("TransactionsWithCurrency: " + TRANSACTIONS_WITH_CURRENCY);
+
+    }
+    public static void printSortedMenu() {
+        final List<Dish> dishes = newMenu();
+        dishes.sort(Comparator.comparing(Dish::getCalories));
+        System.out.println("Sorted menu: " + dishes);
     }
 }

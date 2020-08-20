@@ -28,8 +28,8 @@ public class Transaction{
 	}
 	
 	public String toString(){
-	    return "{" + this.trader + ", " +
+	    return "\n{" + this.trader + ", " +
 	           "year: "+this.year+", " +
-	           "value:" + this.value +"}";
+	           "value:" + this.value +"} ";
 	}
 }
